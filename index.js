@@ -1,3 +1,3 @@
 // Code your solution in this file!
-const companyName = Scuber
- mostProfitableNeighborhood == Chelsea
+const companyName = 'Scuber'
+ mostProfitableNeighborhood == 'Chelsea' 
